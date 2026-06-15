@@ -1,17 +1,23 @@
 <div align="center">
   <h1>Hello World! 🙏</h1>
   <h3>Rama Putra · 🇮🇩 Indonesia · 🎓 CS Student at BYUH (2024–2028)</h3>
+  <p>Currently work as Enterprise Systems Software Developer at Brigham Young University-Hawaii. <br> Visit My Linkedin</i>:<a href="https://www.linkedin.com/in/ramaputra1" target="_blank">
+    Linkedin
+  </a></p>
+
 </div>
 
-<br>
+<!-- <br>
 
 <img src="images/Black Greyscale Photo General Linkedin Banner (2).png" width="100%" />
 
-<br>
+<br> -->
+
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ramaputra1&rank_icon=github&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech I Have Worked With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
