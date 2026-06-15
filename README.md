@@ -2,17 +2,15 @@
 
 ###
 
+<img src="images/Black Greyscale Photo General Linkedin Banner (2).png">
+
+###
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ramaputra1/ramaputra1/stats-output/stats.svg" height="150" alt="stats graph"  />
+  
   <img src="https://streak-stats.demolab.com?user=ramaputra1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ramaputra1/ramaputra1/languages-output/languages.svg" height="150" alt="languages graph"  />
+  
 </div>
-
-###
-
-<img align="right" height="150" src="https://imgflip.com/i/a85xy"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -48,8 +46,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ramaputra1/ramaputra1/snake-output/snake.svg" alt="Snake animation" />
 
