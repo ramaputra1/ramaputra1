@@ -67,7 +67,7 @@
 
 ---
 
-### 💌 A Message for You
+### 💌 Before You Leave: It's a Message for You
 
 <div align="center">
   <img src="https://media0.giphy.com/media/sWf6O1VTBQq9VQAVSA/giphy.gif" width="480" alt="A message for you" />
