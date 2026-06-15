@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello World! 🙏</h1>
   <h3>Rama Putra · 🇮🇩 Indonesia · 🎓 CS Student at BYUH (2024–2028)</h3>
-  <p>Currently work as Enterprise Systems Software Developer at Brigham Young University-Hawaii. <br> Visit My Linkedin</i>:<a href="https://www.linkedin.com/in/ramaputra1" target="_blank">
+  <p>Currently work as Enterprise Systems Software Developer at Brigham Young University-Hawaii. <br> Visit My Linkedin</i>:<a href="https://www.linkedin.com/in/rama-adi-putra-05baa0267/" target="_blank">
     Linkedin
   </a></p>
 
@@ -53,7 +53,7 @@
   <a href="https://ramaputra1.github.io/my-Portofolio/index.html" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/ramaputra1" target="_blank">
+  <a href="https://www.linkedin.com/in/rama-adi-putra-05baa0267/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:rama.aptra@gmail.com" target="_blank">
