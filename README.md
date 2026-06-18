@@ -72,6 +72,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramaputra1/ramaputra1/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ramaputra1/ramaputra1/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 
 ### 💌 Before You Leave: It's a Message for You
