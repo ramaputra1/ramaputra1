@@ -7,15 +7,17 @@
 
 </div>
 
-<!-- <br>
+<br>
 
 <img src="images/Black Greyscale Photo General Linkedin Banner (2).png" width="100%" />
 
-<br> -->
+<br>
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ramaputra1&rank_icon=github&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<!-- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ramaputra1&rank_icon=github&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
----
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramaputra1&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+--- -->
 
 ### 🛠 Tech I Have Worked With
 
@@ -63,8 +65,13 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/ramaputra1/ramaputra1/snake-output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ramaputra1/ramaputra1/snake-output/snake.svg" alt="Snake animation" /> -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramaputra1/ramaputra1/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramaputra1/ramaputra1/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ramaputra1/ramaputra1/pacman-output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ### 💌 Before You Leave: It's a Message for You
