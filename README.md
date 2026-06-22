@@ -52,7 +52,7 @@
 ### 📬 Connect with Me
 
 <div align="left">
-  <a href="https://ramaputra1.github.io/my-Portofolio/index.html" target="_blank">
+  <a href="https://ramaap.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/rama-adi-putra-05baa0267/" target="_blank">
